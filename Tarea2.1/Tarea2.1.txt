@@ -1,0 +1,7 @@
+¿El resultado fue mejor o peor?
+En mi caso, lo maximo que logre hacer que subiera es a 70%, lo cual es mejor que los resultados anteriores de 63%
+
+¿Por qué crees que es así?
+Haciendo pruebas, analizando la data y creando nuevas columnas llegue a tener nuevos datos que tenian
+buenas correlacion con el precio de la casa, esto ayudo al modelo a determinar mejor los factores que alteran
+los precios, por ende logro ser mas preciso.
